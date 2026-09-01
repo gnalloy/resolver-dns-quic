@@ -19,11 +19,13 @@ Gnalloy resolver 的 DNS-over-QUIC exchanger，基于 RFC 9250 ALPN doq 与 QUIC
 - `gnalloy.org/resolver-dns-quic`（`quic`）
 
 ## 直接 Gnalloy 依赖
+
 - `gnalloy.org/codec-dns`
 - `gnalloy.org/resolver-dns`
 - `gnalloy.org/transport-quic`
 
-## 当前模块规划中的直接下游
+## 当前仓库集合中的直接下游
+
 - `gnalloy.org/examples`
 
 ## 架构位置

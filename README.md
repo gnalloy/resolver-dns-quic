@@ -41,6 +41,7 @@ It does not absorb neighboring module responsibilities. Core primitives stay in 
 - `gnalloy.org/resolver-dns-quic` (`quic`)
 
 ## Gnalloy Dependencies
+
 - `gnalloy.org/codec-dns`
 - `gnalloy.org/resolver-dns`
 - `gnalloy.org/transport-quic`

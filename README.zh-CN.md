@@ -41,6 +41,7 @@ GOWORK=off GOTOOLCHAIN=local go test ./... -count=1
 - `gnalloy.org/resolver-dns-quic`（`quic`）
 
 ## Gnalloy 依赖
+
 - `gnalloy.org/codec-dns`
 - `gnalloy.org/resolver-dns`
 - `gnalloy.org/transport-quic`

@@ -19,11 +19,13 @@ This module provides name-resolution building blocks for higher-level transports
 - `gnalloy.org/resolver-dns-quic` (`quic`)
 
 ## Direct Gnalloy Dependencies
+
 - `gnalloy.org/codec-dns`
 - `gnalloy.org/resolver-dns`
 - `gnalloy.org/transport-quic`
 
-## Direct Dependents in the Current Module Plan
+## Direct Dependents in the Current Repository Set
+
 - `gnalloy.org/examples`
 
 ## Architecture Position
